@@ -9,7 +9,7 @@ Checkout the live demo and try it for yourself: [https://web-teslaclone.netlify.
 
 <br/>
 
-![Tesla-Logo-PNG-HD](https://github.com/TheHamzaDev/Tesla-Clone/assets/143728239/99452f80-096c-4c48-a004-040e900f8fb8)
+## ![Tesla-Logo-PNG-HD](https://github.com/TheHamzaDev/Tesla-Clone/assets/143728239/99452f80-096c-4c48-a004-040e900f8fb8)
 
 
 
